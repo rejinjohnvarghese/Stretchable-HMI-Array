@@ -3,8 +3,10 @@ This repo curates all the files (including PCBs, CAD,...) outlining the DIY fabr
 
 Publication: https://www.mdpi.com/1424-8220/24/6/1810
 
+
 Cover Image:
 ![image](https://github.com/rejinjohnvarghese/Stretchable-HMI-Array/assets/56391645/a854c625-dbdc-485c-b227-d1724c3dc677)
+
 
 
 Outline of Fabrication Method:
