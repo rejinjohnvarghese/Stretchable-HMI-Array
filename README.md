@@ -5,6 +5,8 @@ Publication: https://www.mdpi.com/1424-8220/24/6/1810
 
 
 Cover Image:
+
+
 ![image](https://github.com/rejinjohnvarghese/Stretchable-HMI-Array/assets/56391645/67af8f06-bc07-4b51-8cb8-91be6961579f)
 
 
