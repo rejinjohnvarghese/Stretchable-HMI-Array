@@ -8,8 +8,7 @@ https://www.mdpi.com/1424-8220/24/6/1810 (MDPI)
 https://arxiv.org/abs/2403.20117 (ArXiv)
 
 Gesture-Recognition Data:
-
-https://www.icloud.com/iclouddrive/037ODJ3Dtwz8lQxCOUZYLejIQ#MyoLink%5FData
+https://drive.google.com/file/d/1P839BY2rotF8Jz9eDugFtXKGoD5bRX6f/view?usp=sharing
 
 Cover Image:
 
