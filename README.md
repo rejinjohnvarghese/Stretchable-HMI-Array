@@ -9,7 +9,7 @@ https://arxiv.org/abs/2403.20117 (ArXiv)
 
 Gesture-Recognition Data:
 
-https://www.icloud.com/iclouddrive/037ODJ3Dtwz8lQxCOUZYLejIQ#MyoLink%5FData (iCloud)
+https://www.icloud.com/iclouddrive/037ODJ3Dtwz8lQxCOUZYLejIQ#MyoLink%5FData
 
 Cover Image:
 
