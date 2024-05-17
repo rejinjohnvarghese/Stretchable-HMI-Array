@@ -14,3 +14,7 @@ Cover Image:
 
 Outline of Fabrication Method:
 ![Fabrication Method](https://github.com/rejinjohnvarghese/Stretchable-HMI-Array/assets/56391645/ff992e03-cf32-4cb2-9947-52f51881f52a)
+
+
+Gesture-Recognition Data
+https://www.icloud.com/iclouddrive/037ODJ3Dtwz8lQxCOUZYLejIQ#MyoLink%5FData (iCloud)
